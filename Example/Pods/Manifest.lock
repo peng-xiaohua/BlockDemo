@@ -1,0 +1,16 @@
+PODS:
+  - BlockDemo (0.1.0)
+
+DEPENDENCIES:
+  - BlockDemo (from `../`)
+
+EXTERNAL SOURCES:
+  BlockDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlockDemo: 562f4a8e8c086ae00ec117a9a15d8e391253a150
+
+PODFILE CHECKSUM: 2af8ac01ebc4c057686c41b5e95b9b669783ea1d
+
+COCOAPODS: 1.10.1
